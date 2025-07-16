@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johanna Siagian</h1>
-<h3 align="center">A passionate Quality Assurance and UI/UX Designer from Indonesia</h3>
-
-- 👨‍💻 All of my projects are available at [https://messy-receipt-f38.notion.site/Johanna-Siagian-a94872512f444c5981bf290e5cf301fd?pvs=25](https://messy-receipt-f38.notion.site/Johanna-Siagian-a94872512f444c5981bf290e5cf301fd?pvs=25)
+<h3 align="center">A passionate Quality Assurance from Indonesia</h3>
 
 - 📫 How to reach me **johannasiagian3@gmail.com**
 
