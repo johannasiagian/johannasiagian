@@ -12,7 +12,6 @@ Aspiring QA Engineer | Passionate about testing and automation
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=johannasiagian&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=johannasiagian&theme=yeblu&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johannasiagian&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
